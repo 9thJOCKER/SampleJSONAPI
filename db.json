@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "product_name": "Iphone 12",
+      "price": "$1400"
+    },
+    {
+      "id": 1,
+      "product_name": "Samsung 8k TV",
+      "price": "$1200"
+    },
+    {
+      "id": 2,
+      "product_name": "MSI gl63",
+      "price": "$700"
+    },
+    {
+      "id": 3,
+      "product_name": "Samsung Galaxy S21 ULTRA",
+      "price": "$1400"
+    }
+  ]
+}
