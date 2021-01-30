@@ -1,29 +1,7 @@
 {
-  "products": [
-    {
-      "id": 0,
-      "product_name": "Iphone 12",
-      "price": "$1400"
-    },
-    {
-      "id": 1,
-      "product_name": "Samsung 8k TV",
-      "price": "$1200"
-    },
-    {
-      "id": 2,
-      "product_name": "MSI gl63",
-      "price": "$700"
-    },
-    {
-      "id": 3,
-      "product_name": "Samsung Galaxy S21 ULTRA",
-      "price": "$1400"
-    },
-    {
-      "id": 4,
-      "Product_name": "Honor Play",
-      "Price": "$200"
-    }
-  ]
+    "Result":
+        [{"EmployeeId":30,"EmployeeCode":"1000","FirstName":null,"MiddleName":null,"LastName":null,"FullName":"Murali s ramachandran","DateofBirth":"1948-11-25T00:00:00","JoinDate":"2015-12-17T00:00:00","EmployeeTypeId":"Probation","ImageData":"vishnu (488).JPG","State":"kerala","Branch":"Clt","Department":"Finance","Designation":"HR","Email":"murali@gmail.com","ContactNumber":"9494949494","Status":"N"},
+         {"EmployeeId":31,"EmployeeCode":"1001","FirstName":null,"MiddleName":null,"LastName":null,"FullName":"sreehari P babu","DateofBirth":"2021-01-05T00:00:00","JoinDate":"2021-01-27T00:00:00","EmployeeTypeId":"Permanent","ImageData":"2017-04-22-16-51-10-229.jpg","State":"kerala","Branch":"TVM","Department":"HR","Designation":"HR","Email":"sree@gmail.com","ContactNumber":"9696969696","Status":"N"},
+         {"EmployeeId":32,"EmployeeCode":"1002","FirstName":null,"MiddleName":null,"LastName":null,"FullName":"Ivaan p Dipin","DateofBirth":"2021-01-20T00:00:00","JoinDate":"2021-01-05T00:00:00","EmployeeTypeId":"Probation","ImageData":"IMG_20181101_140111.jpg","State":"TamilNaad","Branch":"Clt","Department":"HR","Designation":"Acc","Email":"adghgvhjkmjj@gmail.com","ContactNumber":"5555555555","Status":"N"}
+        ]
 }
